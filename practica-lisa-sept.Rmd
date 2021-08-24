@@ -1,0 +1,65 @@
+---
+title: Llamado a concurso
+subtitle: Práctica de Investigación LISA-COES
+---
+
+---
+
+```{css, echo=FALSE}
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@100;300&family=Montserrat:wght@100;300&display=swap');
+body {
+    font-family: 'Montserrat';
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+}
+```
+
+
+
+El Centro de Estudios de Conflicto y Cohesión Social (COES) llama a concurso para un cargo de Practicante de Investigación dentro del equipo del Laboratorio de Ciencia Social Abierta (LISA). Se busca una persona cuya formación sea en Ciencias Sociales, que se encuentre en búsqueda de realizar su práctica profesional en materias de investigación y desarrollo de proyectos. 
+
+### 1. Objetivo de cargo:
+
+Desarrollar el estudio sobre conocimiento y prácticas en Ciencia Abierta con un foco en la comunidad académica de Ciencias Sociales. 
+
+
+### 2. Funciones del cargo:
+
+
+* Realizar una revisión sistemática de literatura empírica en torno al estudio del conocimiento y prácticas en Ciencia Abierta a nivel internacional.
+* Realizar una propuesta metodológica para el estudio cuantitativo (Encuesta) en torno al conocimiento y prácticas en Ciencia Abierta.
+* Elaboración de un reporte de resultados en base al análisis cuantitativo de la información.
+* Apoyo en las actividades del Laboratorio de Ciencia Social Abierta que se realicen durante el periodo de práctica profesional.
+
+
+###  3. Competencias requeridas:
+
+* Estudiante de alguna disciplina de las ciencias sociales (sociología, psicología, economía, ciencia política, geografía, etc.).
+* Autonomía, eficiencia, flexibilidad y capacidades de trabajo en equipo.
+* Requisito lectura y deseable escritura en inglés.
+* Manejo del paquete estadístico R. 
+* Deseable experiencia como ayudante de cátedra en ramos como Diseño/Muestreo de Encuestas, Estadística ,Técnicas Cuantitativas de la Investigación Social o Análisis de Datos Cuantitativos, Econometría y/o Psicometría.
+* Deseable conocimiento de trabajo con repositorios abiertos como Github
+* Deseable conocimiento en uso de gestores de referencias bibliográficas (Zotero, Mendeley, otros).
+* Conocimiento en herramientas de escritura en texto simple/plano (R Markdown y/o LaTeX).
+
+
+### 4. Condiciones de la práctica profesional
+
+* Régimen de teletrabajo.
+* Disponibilidad de trabajo de media jornada como mínimo.
+* Disponibilidad a partir de septiembre de 2021.
+* Retribución económica de $200.000 mensuales.
+
+
+#### Postulación
+
+El plazo para postular es el **06 de septiembre del 2021.** 
+
+La postulación debe incluir currículo actualizado y breve carta de presentación y motivación (máximo una plana), ambos documentos en 1 solo archivo pdf.
+
+[<img src="https://leovigildokley.cl/wp-content/uploads/2018/07/boton_postula.png" width="200">](https://forms.gle/NUo9oPGymae2re897)
+
+
+
