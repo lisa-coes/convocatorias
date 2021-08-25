@@ -13,11 +13,17 @@ body {
     line-height: 1.42857143;
     color: #333;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 ```
 
+[<img src="https://github.com/lisa-coes/open-access/raw/main/_book/images/lisa.png" width="300" class="center">](https://lisa-coes.netlify.app/)
 
-
-El Centro de Estudios de Conflicto y Cohesión Social (COES) llama a concurso para un cargo de Practicante de Investigación dentro del equipo del Laboratorio de Ciencia Social Abierta (LISA). Se busca una persona cuya formación sea en Ciencias Sociales, que se encuentre en búsqueda de realizar su práctica profesional en materias de investigación y desarrollo de proyectos. 
+El **Centro de Estudios de Conflicto y Cohesión Social** (COES) llama a concurso para un cargo de Practicante de Investigación dentro del equipo del **Laboratorio de Ciencia Social Abierta** (LISA). Se busca una persona cuya formación sea en Ciencias Sociales, que se encuentre en búsqueda de realizar su práctica profesional en materias de investigación y desarrollo de proyectos. 
 
 ### 1. Objetivo de cargo:
 
@@ -59,7 +65,7 @@ El plazo para postular es el **06 de septiembre del 2021.**
 
 La postulación debe incluir currículo actualizado y breve carta de presentación y motivación (máximo una plana), ambos documentos en 1 solo archivo pdf.
 
-[<img src="https://leovigildokley.cl/wp-content/uploads/2018/07/boton_postula.png" width="200">](https://forms.gle/NUo9oPGymae2re897)
+[<img src="https://leovigildokley.cl/wp-content/uploads/2018/07/boton_postula.png" width="200" class="center">](https://forms.gle/NUo9oPGymae2re897)
 
 
 
